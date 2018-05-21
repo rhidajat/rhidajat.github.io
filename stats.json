@@ -1,0 +1,68 @@
+{
+  "assetsByChunkName": {
+    "path---my-second-post": [
+      "path---my-second-post-ea96cceab619eb35ae41.js",
+      "path---my-second-post-ea96cceab619eb35ae41.js.map"
+    ],
+    "component---src-pages-index-js": [
+      "component---src-pages-index-js-e99de2c46579e9594f10.js",
+      "component---src-pages-index-js-e99de2c46579e9594f10.js.map"
+    ],
+    "path---generic": [
+      "path---generic-a0e39f21c11f6a62c5ab.js",
+      "path---generic-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "path---elements": [
+      "path---elements-a0e39f21c11f6a62c5ab.js",
+      "path---elements-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "path---": [
+      "path----557518bd178906f8d58a.js",
+      "path----557518bd178906f8d58a.js.map"
+    ],
+    "component---src-pages-elements-js": [
+      "component---src-pages-elements-js-2d2d5979975d1362c929.js",
+      "component---src-pages-elements-js-2d2d5979975d1362c929.js.map"
+    ],
+    "component---src-templates-blog-post-js": [
+      "component---src-templates-blog-post-js-0c5eaf6937c8400617f6.js",
+      "component---src-templates-blog-post-js-0c5eaf6937c8400617f6.js.map"
+    ],
+    "component---src-layouts-index-js": [
+      "component---src-layouts-index-js-906001a84409e73fa74d.js",
+      "component---src-layouts-index-js-906001a84409e73fa74d.js.map"
+    ],
+    "path---hi-folks": [
+      "path---hi-folks-a9ab820158e8321ae82c.js",
+      "path---hi-folks-a9ab820158e8321ae82c.js.map"
+    ],
+    "path---landing": [
+      "path---landing-a0e39f21c11f6a62c5ab.js",
+      "path---landing-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "path---index": [
+      "path---index-fa2b839c4c515f97b615.js",
+      "path---index-fa2b839c4c515f97b615.js.map"
+    ],
+    "path---hello-world": [
+      "path---hello-world-8f7dc2574d11e157c098.js",
+      "path---hello-world-8f7dc2574d11e157c098.js.map"
+    ],
+    "component---src-pages-generic-js": [
+      "component---src-pages-generic-js-f0040ea4ffc19feb66a4.js",
+      "component---src-pages-generic-js-f0040ea4ffc19feb66a4.js.map"
+    ],
+    "component---src-pages-landing-js": [
+      "component---src-pages-landing-js-8bc7b97413086e5e2bfa.js",
+      "component---src-pages-landing-js-8bc7b97413086e5e2bfa.js.map"
+    ],
+    "commons": [
+      "commons-0b86cd725b0651153949.js",
+      "commons-0b86cd725b0651153949.js.map"
+    ],
+    "app": [
+      "app-19a2cd1fe564511665d3.js",
+      "app-19a2cd1fe564511665d3.js.map"
+    ]
+  }
+}
