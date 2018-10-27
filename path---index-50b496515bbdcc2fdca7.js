@@ -1,0 +1,2 @@
+webpackJsonp([0x81b8806e4260],{352:function(e,t){e.exports={data:{site:{siteMetadata:{title:"Reece's Blog",description:"Reece"}}},pathContext:{}}}});
+//# sourceMappingURL=path---index-50b496515bbdcc2fdca7.js.map
